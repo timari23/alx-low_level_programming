@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<time.h>
-#include<stdio/h>
+#include<stdio.h>
 /**
  * main - Print the last digit of a randomly ge,erated number
  * and whether it is greater than 5,less that 6, or 0.
